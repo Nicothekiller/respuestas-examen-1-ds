@@ -1,8 +1,8 @@
 #import "template.typ": apa7, blockquote
 
 #show: apa7.with(
-  title: "Correccion examen parcial 1",
-  author: "Nicolas Naranjo",
+  title: "Corrección examen parcial 1",
+  author: "Nicolás Naranjo",
   department: "Universidad San Fransisco de Quito",
   course: "CMP 3003: Diseño de Sistemas",
   instructor: "Erick Ñauñay Cantos",
@@ -13,9 +13,9 @@
 #outline()
 #pagebreak()
 
-= Seccion teorica
+= Sección teórica
 
-Las siguientes son las respuestas de la seccion teorica:
+Las siguientes son las respuestas de la sección teórica:
 
 + B
 + B
@@ -47,6 +47,9 @@ Las siguientes son las respuestas de la seccion teorica:
 + ABD
 + B
 + ABD
+
+= Sección practica
+
 
 
 // #pagebreak()
