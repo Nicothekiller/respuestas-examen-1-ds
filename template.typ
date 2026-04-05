@@ -29,7 +29,12 @@
     lang: lang,
   )
 
-  set par(first-line-indent: (all: true, amount: 0.5in))
+  set par(first-line-indent: (all: true, amount: 0.5in), spacing: 2em)
+
+  show raw.where(block: true): set par(first-line-indent: (
+    all: false,
+    amount: 0pt,
+  ))
 
   set heading(numbering: "1.1)")
 
